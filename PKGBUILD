@@ -1,7 +1,7 @@
 # Maintainer: Fabian Köhler <fabian2804@googlemail.com>
 pkgname=boost-compute-git
 pkgver=0.3
-pkgrel=2
+pkgrel=3
 pkgdesc="A C++ GPU Computing Library for OpenCL"
 arch=('i686' 'x86_64')
 url="https://github.com/kylelutz/compute"
